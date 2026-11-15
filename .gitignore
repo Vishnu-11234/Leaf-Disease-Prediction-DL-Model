@@ -1,0 +1,68 @@
+
+# =========================
+# Python cache
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# =========================
+# Virtual environments
+# =========================
+venv/
+.venv/
+env/
+myenv/
+
+# =========================
+# Jupyter Notebook
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# PlantVillage datasets
+# =========================
+plantvillage\ dataset/
+plantvillage_split/
+plantvillage_split.zip
+
+# =========================
+# Generated documents
+# =========================
+.virtual_documents/
+
+# =========================
+# Model training checkpoints
+# =========================
+*.pt
+*.pth.tar
+*.ckpt
+
+# =========================
+# Streamlit
+# =========================
+.streamlit/secrets.toml
+
+# =========================
+# IDE
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# Operating system
+# =========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# Temporary files
+# =========================
+*.tmp
+*.bak
